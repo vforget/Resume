@@ -61,7 +61,7 @@ Competencies
 Publications
 ------------
 
-|                 **Forgetta V**, Rempel H, Malouin F, Vaillancourt R, Topp E, Dewar K, Diarra MS (2012). Pathogenic and Multidrug Resistant Escherichia fergusonii from Broiler Chicken.  Poultry Science. 91(2):512-525 .
+| **Forgetta V**, Rempel H, Malouin F, Vaillancourt R, Topp E, Dewar K, Diarra MS (2012). Pathogenic and Multidrug Resistant Escherichia fergusonii from Broiler Chicken.  Poultry Science. 91(2):512-525 .
 | **Forgetta V**, Oughton MT, Marquis P, Brukner I, Blanchette R, Haub K, Magrini V, Mardis ER, Gerding DN, Loo VG, Miller MA, Mulvey MR, Rupnik M, Dascal A, Dewar K (2011). Fourteen-Genome Comparison Identifies DNA Markers for Severe-Disease-Associated Strains of Clostridium difficile. J. Clin. Microbiol., 49, 6:2230-8. 
 | Barreau G, Montpetit A, **Forgetta V**, Leveque G, Attiya S, Dias J, Swiatek M and Dewar K (2011). Accurate genome assembly using long insert libraries and next-generation sequencing technology. Genome Quebec Technical Application Note.    
 | Laboissière S, **Forgetta V**, Blanchette R, Kiazhev L, Roy L, Boismenu D, Hamel D, Dascal A, and Dewar K. (2009) Mass spectrometry based approach for gene annotation of bacterial genomes – a case study on cell-wall surface proteins from C. difficile. Genome Quebec Technical Application Note.
