@@ -1,3 +1,5 @@
+.. |date| date::
+
 | **Vince Forgetta**
 | vincenzo.forgetta@mail.mcgill.ca
 | https://github.com/vforget
@@ -105,3 +107,5 @@ Personal Interests
 ------------------
 
 Biking, hiking, video games, and science fiction.
+
+:Last modified: |date|
