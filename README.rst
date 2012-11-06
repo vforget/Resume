@@ -1,19 +1,16 @@
 | **Vince Forgetta**
-| 402-5305 Drolet
-| Montreal, QC H2T 2H5
 | vincenzo.forgetta@mail.mcgill.ca
 | https://github.com/vforget
 | http://blip.codeplex.com
-| 514.927.7524
 
 Education
 ---------
  
-**Post-Doctoral Trainee**, *2012-*
+**Post-Doctoral Trainee**, *2012-present*
 
 - Dept. of Epidemiology and Biostatistics, McGill University. Supervisor: Brent Richards, MD (2012-present).
 
-**Candidate for Doctor of Philosophy**, *2006-2012 (expected)*
+**Candidate for Doctor of Philosophy**, *2006-2012 [expected]*
 
 - Dept. of Human Genetics, McGill University. Supervisor: Ken Dewar, PhD.
 - Thesis: Closing the Gap Between Genome Analysis and the Biologist.  
@@ -33,6 +30,7 @@ Professional Experience
 -----------------------
 
 **Bioinformatician, McGill University and Genome Quebec Innovation Centre**, *2002-2006*
+
 - Supervisor: Ken Dewar, PhD.
    
 Teaching Experience
