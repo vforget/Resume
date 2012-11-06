@@ -84,12 +84,12 @@ Oral Presentations
 Poster Presentations
 --------------------
 
-|**Forgetta V**, Rempel H, Dewar K, and Diarra MS. Genomic Characterization of an Escherichia coli Isolate from a Healthy Broiler Chicken. IDSA Annual Meeting 2010. Vancouver, British Columbia.
-|**Forgetta V**, Oughton MT, Marquis P, Villeneuve A, Hernandez C, Leveque G, Dias J, Nagy C, Brukner I, Blanchette B, Haub K, Hickenbotham M, Markovic C, Nelson J, Magrini V, Mardis E, Gerding DN, Loo VG, Lorange M, Miller MA, Mulve MR, Rupnik M, Dascal A, Dewar K. Comparative Genome Analysis Identifies SNPs Associated to Three Severe Disease Strains of C. difficile. Annual Meeting of the American Society of Microbiology 2010, San Diego, California.
-|**Forgetta V** and Dewar K (2010). ContiGo - Web Browser-based Software for the Analysis of Genome Assemblies from Massively Parallel Sequencing.  Canadian Human Genetics Conference. April 18-21, St-Sauveur, Quebec, Canada.
-|Oughton MT, **Forgetta V**, Brukner I, Villeneuve A, Levesque G, Nagy C, Dias J, Magrini V, Hickenbotham M, Haub K, Markovic C, Nelson J, Mardis E, Dascal A, Dewar K. (2008) Comparative genomics analysis of  Clostridium difficile: improving methods for detection, epidemiology, therapeutics and understanding pathogenicity.  AMMI Canada/CACMID annual conference, Feb. 27-March 2, Vancouver.
-|**Forgetta V**, Oughton MT, Villeneuve A, Dascal A, Magrini V, Hickenbotham M, Mardis E and Dewar K. (2007) Initial sequencing and analysis of a virulent Quebec isolate of  Clostridium difficile.  AMMI Canada/CACMID annual conference. March 14-18, Halifax.
-|**Forgetta V**, Oughton MT, Brukner I, Villeneuve A, Levesque G, Nagy C, Dias J, Magrini V, Hickenbotham M, Haub K, Markovic C, Nelson J, Mardis E, Dascal A and Dewar K. (2007) Developing genome resources for  Clostridium difficile.  Genome Canada International Conference 2007, October 17-19, Quebec City.
+| **Forgetta V**, Rempel H, Dewar K, and Diarra MS. Genomic Characterization of an Escherichia coli Isolate from a Healthy Broiler Chicken. IDSA Annual Meeting 2010. Vancouver, British Columbia.
+| **Forgetta V**, Oughton MT, Marquis P, Villeneuve A, Hernandez C, Leveque G, Dias J, Nagy C, Brukner I, Blanchette B, Haub K, Hickenbotham M, Markovic C, Nelson J, Magrini V, Mardis E, Gerding DN, Loo VG, Lorange M, Miller MA, Mulve MR, Rupnik M, Dascal A, Dewar K. Comparative Genome Analysis Identifies SNPs Associated to Three Severe Disease Strains of C. difficile. Annual Meeting of the American Society of Microbiology 2010, San Diego, California.
+| **Forgetta V** and Dewar K (2010). ContiGo - Web Browser-based Software for the Analysis of Genome Assemblies from Massively Parallel Sequencing.  Canadian Human Genetics Conference. April 18-21, St-Sauveur, Quebec, Canada.
+| Oughton MT, **Forgetta V**, Brukner I, Villeneuve A, Levesque G, Nagy C, Dias J, Magrini V, Hickenbotham M, Haub K, Markovic C, Nelson J, Mardis E, Dascal A, Dewar K. (2008) Comparative genomics analysis of  Clostridium difficile: improving methods for detection, epidemiology, therapeutics and understanding pathogenicity.  AMMI Canada/CACMID annual conference, Feb. 27-March 2, Vancouver.
+| **Forgetta V**, Oughton MT, Villeneuve A, Dascal A, Magrini V, Hickenbotham M, Mardis E and Dewar K. (2007) Initial sequencing and analysis of a virulent Quebec isolate of  Clostridium difficile.  AMMI Canada/CACMID annual conference. March 14-18, Halifax.
+| **Forgetta V**, Oughton MT, Brukner I, Villeneuve A, Levesque G, Nagy C, Dias J, Magrini V, Hickenbotham M, Haub K, Markovic C, Nelson J, Mardis E, Dascal A and Dewar K. (2007) Developing genome resources for  Clostridium difficile.  Genome Canada International Conference 2007, October 17-19, Quebec City.
 
 Awards
 ------ 
