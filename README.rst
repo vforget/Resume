@@ -34,8 +34,9 @@ Education
 Professional Experience
 -----------------------
 
-**Bioinformatician, McGill University and Genome Quebec Innovation Centre**, *2002-2006*
+**Bioinformatician**, *2002-2006*
 
+- McGill University and Genome Quebec Innovation Centre
 - Supervisor: Ken Dewar, PhD.
    
 Teaching Experience
