@@ -1,5 +1,7 @@
 .. |date| date::
 
+.. _MSThesis: http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=33758&silo_library=GEN01
+
 | **Vince Forgetta**
 | vincenzo.forgetta@mail.mcgill.ca
 | https://github.com/vforget
@@ -22,7 +24,7 @@ Education
 **Masters of Science**, *1999-2002*
 
 - Dept. of Human Genetics, McGill University. Supervisor: Danielle Malo, PhD.
-- Thesis: Systematic search for Salmonella-susceptibility quantitative trait loci in the chicken using a whole genome scan approach.
+- Thesis: Systematic search for Salmonella-susceptibility quantitative trait loci in the chicken using a whole genome scan approach. [`link http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=33758&silo_library=GEN01`_]
 
 **Bachelor of Science**, *1996-1999*
 
