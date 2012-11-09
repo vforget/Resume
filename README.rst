@@ -63,7 +63,7 @@ Competencies
 Publications
 ------------
 | **Forgetta V**, Leveque G, Dias J, Grove D, Lyons Jr. R, Genik S, Wright C, Singh S, Peterson N, Zianni M, Kieleczawa J, Steen R, Perera A, Bintzler D, Adams S, Hintz W, Jacobi V, Bernier L, Levesque R, Dewar K. Sequencing of the Dutch Elm Disease Fungus Genome Using the Roche/454 GS-FLX Titanium System in a Comparison of Multiple Genomics Core Facilities. Journal of Biomolecular Techniques (submitted).
-| **Forgetta V** and Dewar K. `Cgb − A Unix Shell Program to Create Custom Instances of the UCSC Genome Browser`. `arXiv:1211.1607 [q-bio.GN] <http://arxiv.org/abs/1211.1607>`_.
+| **Forgetta V** and Dewar K. **Cgb − A Unix Shell Program to Create Custom Instances of the UCSC Genome Browser**. `arXiv:1211.1607 [q-bio.GN] <http://arxiv.org/abs/1211.1607>`_.
 | **Forgetta V**, Rempel H, Malouin F, Vaillancourt R, Topp E, Dewar K, Diarra MS (2012). Pathogenic and Multidrug Resistant *Escherichia fergusonii* from Broiler Chicken.  Poultry Science. 91(2):512-525. PMID: `22252367 <http://www.ncbi.nlm.nih.gov/pubmed/22252367>`_.
 | **Forgetta V**, Oughton MT, Marquis P, Brukner I, Blanchette R, Haub K, Magrini V, Mardis ER, Gerding DN, Loo VG, Miller MA, Mulvey MR, Rupnik M, Dascal A, Dewar K (2011). Fourteen-Genome Comparison Identifies DNA Markers for Severe-Disease-Associated Strains of *Clostridium difficile*. J. Clin. Microbiol., 49, 6:2230-8. PMID: `21508155 <http://www.ncbi.nlm.nih.gov/pubmed/21508155>`_.
 | Barreau G, Montpetit A, **Forgetta V**, Leveque G, Attiya S, Dias J, Swiatek M and Dewar K (2011). Accurate genome assembly using long insert libraries and next-generation sequencing technology. Genome Quebec Technical Application Note.    
