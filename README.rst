@@ -12,7 +12,7 @@ Education
 
 - Dept. of Epidemiology and Biostatistics, McGill University. Supervisor: Brent Richards, MD (2012-present).
 
-**Candidate for Doctor of Philosophy**, *2006-2012 [expected]*
+**Doctor of Philosophy**, *2006-2012*
 
 - Dept. of Human Genetics, McGill University. Supervisor: Ken Dewar, PhD.
 - Thesis: Closing the Gap Between Genome Analysis and the Biologist.  
@@ -55,14 +55,14 @@ Service
 
 Competencies 
 ------------
-
+- Red Hat Certified System Administrator, RHEL 6, Cert. Id. 120-214-788.
 - Software development platforms: Windows, Linux and the web.
 - Computer Languages: Awk, bash, C#, C, CSS, HTML, Javascript, Latex, MySQL, Python, Perl, Ruby, SVG, R.
 - Existing tools: Installation and customization of the GMOD GGB, UCSC Genome Browser, including numerous programs used for genome annotation. Statistical analysis and data visualization using R or SciPy.
 
 Peer-Reviewed Publications
 --------------------------
-#. **Forgetta V**, Leveque G, Dias J, Grove D, Lyons Jr. R, Genik S, Wright C, Singh S, Peterson N, Zianni M, Kieleczawa J, Steen R, Perera A, Bintzler D, Adams S, Hintz W, Jacobi V, Bernier L, Levesque R, Dewar K. Sequencing of the Dutch Elm Disease Fungus Genome Using the Roche/454 GS-FLX Titanium System in a Comparison of Multiple Genomics Core Facilities. Journal of Biomolecular Techniques (accepted).
+#. **Forgetta V**, Leveque G, Dias J, Grove D, Lyons Jr. R, Genik S, Wright C, Singh S, Peterson N, Zianni M, Kieleczawa J, Steen R, Perera A, Bintzler D, Adams S, Hintz W, Jacobi V, Bernier L, Levesque R, Dewar K. Sequencing of the Dutch Elm Disease Fungus Genome Using the Roche/454 GS-FLX Titanium System in a Comparison of Multiple Genomics Core Facilities. J Biomol Tech. 2013 January: jbt.12-2401-005. PMCID: `PMC3526337 <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526337/>`_.
 #. **Forgetta V**, Rempel H, Malouin F, Vaillancourt R, Topp E, Dewar K, Diarra MS (2012). Pathogenic and Multidrug Resistant Escherichia fergusonii from Broiler Chicken.  Poultry Science. 91(2):512-525. PMID: `22252367 <http://www.ncbi.nlm.nih.gov/pubmed/22252367>`_.
 #. **Forgetta V**, Oughton MT, Marquis P, Brukner I, Blanchette R, Haub K, Magrini V, Mardis ER, Gerding DN, Loo VG, Miller MA, Mulvey MR, Rupnik M, Dascal A, Dewar K (2011). Fourteen-Genome Comparison Identifies DNA Markers for Severe-Disease-Associated Strains of Clostridium difficile. J. Clin. Microbiol., 49, 6:2230-8. PMID: `21508155 <http://www.ncbi.nlm.nih.gov/pubmed/21508155>`_.
 #. Lerner-Ellis JP, Tirone JC, Pawelek PD, Doré C, Atkinson JL, Watkins D, Morel CF, Fujiwara TM, Moras E, Hosack AR, Dunbar GV, Antonicka H, **Forgetta V**, Dobson CM, Leclerc D, Gravel RA, Shoubridge EA, Coulton JW, Lepage P, Rommens JM, Morgan K, Rosenblatt DS. Identification of the gene responsible for methylmalonic aciduria and homocystinuria, cblC type. Nat Genet. 2006 Jan;38(1):93-100. PMID: `16311595 <http://www.ncbi.nlm.nih.gov/pubmed/16311595>`_.
