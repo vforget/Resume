@@ -1,6 +1,6 @@
 .. |date| date::
 
-| **Vince Forgetta**
+| **Vince Forgetta**, PhD, Bioinformatician
 | vincenzo.forgetta@mail.mcgill.ca
 | https://github.com/vforget
 | http://blip.codeplex.com
