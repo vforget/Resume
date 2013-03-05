@@ -72,7 +72,7 @@ Peer-Reviewed Publications
 
 Other Publications
 ------------------
-#. **Forgetta V** and Dewar K. Cgb − A Unix Shell Program to Create Custom Instances of the UCSC Genome Browser. `arXiv:1211.1607 [q-bio.GN] <http://arxiv.org/abs/1211.1607>`_.
+#. **Forgetta V** and Dewar K. Cgb - A Unix Shell Program to Create Custom Instances of the UCSC Genome Browser. `arXiv:1211.1607 [q-bio.GN] <http://arxiv.org/abs/1211.1607>`_.
 #. Barreau G, Montpetit A, **Forgetta V**, Leveque G, Attiya S, Dias J, Swiatek M and Dewar K (2011). Accurate genome assembly using long insert libraries and next-generation sequencing technology. Genome Quebec Technical Application Note.    
 #. Laboissière S, **Forgetta V**, Blanchette R, Kiazhev L, Roy L, Boismenu D, Hamel D, Dascal A, and Dewar K. (2009) Mass spectrometry based approach for gene annotation of bacterial genomes – a case study on cell-wall surface proteins from C. difficile. Genome Quebec Technical Application Note.
    
